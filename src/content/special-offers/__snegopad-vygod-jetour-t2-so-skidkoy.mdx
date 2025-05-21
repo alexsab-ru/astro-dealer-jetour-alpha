@@ -1,0 +1,43 @@
+---
+h1: "Снегопад выгод на Jetour T2 — обновленный прайс-лист!"
+title: "Скидки на Jetour T2: Экспедиция и Вояж — до 320 000 рублей выгоды!"
+caption: "Снегопад выгод: Jetour T2 со скидкой!"
+breadcrumb: "Снегопад выгод на Jetour T2"
+pubDate: 2024-11-26
+toDate: true
+image: "https://cdn.alexsab.ru/specials/jetour/alpha/snegopad-vygod-jetour-t2-so-skidkoy/thumb.webp"
+description: "Успейте воспользоваться уникальным предложением на Jetour T2! Обновленный прайс-лист с выгодой до 320 000 рублей. Специальные условия кредитования от Альфа-Банка."
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<source media="(min-width: 1280px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/snegopad-vygod-jetour-t2-so-skidkoy/jetour-t2-winter-1920x1080.webp" />
+	<source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/snegopad-vygod-jetour-t2-so-skidkoy/jetour-t2-winter-1080x1080.webp" />
+	<img src="https://cdn.alexsab.ru/specials/jetour/alpha/snegopad-vygod-jetour-t2-so-skidkoy/thumb.webp" class="w-full mb-10" alt="Снегопад выгод на Jetour T2" />
+</picture>
+
+**Снегопад выгод!** Мы обновили прайс-лист на Jetour T2 — **минус 320 000 рублей**.
+
+**Jetour T2 Expedition:** 3 929 000 рублей с учётом выгоды при покупке в кредит по стандартной ставке и выгоды по программе трейд-ин.
+
+**Jetour T2 Voyage:** 3 639 000 рублей с учётом выгоды по программе трейд-ин.
+
+<br/>
+
+Кроме того, Альфа-Банк предлагает специальную кредитную ставку на Jetour T2.
+
+<br/>
+
+<SpecialSalonsInfo dataFormName="Узнать подробнее. Снегопад выгод на Jetour T2" />
+
+> Предложение действует только до {dateTo}.

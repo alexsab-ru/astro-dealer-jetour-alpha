@@ -1,0 +1,41 @@
+---
+h1: Правила программы Джетур Ассистанс
+title: Правила программы Джетур Ассистанс
+caption: Правила программы Джетур Ассистанс
+breadcrumb: Правила программы Джетур Ассистанс
+slug: "assistance"
+image: "https://cdn.alexsab.ru/b/jetour/img/for-owners/assistance/thumb.webp"
+description: "На сайте официального дилера JETOUR в Самаре можно ознакомиться и скачать руководство по эксплуатации для всех моделей JETOUR, чтобы быть в курсе правил и особенностей эксплуатации автомобилей."
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<img src="https://cdn.alexsab.ru/b/jetour/img/for-owners/assistance/thumb.webp" class="w-full mb-12" alt="Руководства по эксплуатации JETOUR" />
+</picture>
+
+Программа «Джетур Ассистанс» помогает водителям автомобилей Jetour, у которых возникли проблемы на дороге. Помощь доступна круглосуточно, каждый день без выходных и праздников.
+
+«Джетур Ассистанс» включает:
+
++ Техническую консультацию по телефону.
++ Выезд к автомобилю, если удаленно проблему не решить.
++ Эвакуацию.
++ Предоставление такси в нужном направлении
++ Продолжение путешествия, возвращение домой, возвращение к месту ремонта.
++ Размещение в гостинице на время ремонта.
++ Юридическую консультацию
+
+Познакомьтесь с полным перечнем условий программы.
+
+<FeedbackForm title="Узнать подробнее" />

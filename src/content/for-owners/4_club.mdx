@@ -1,0 +1,33 @@
+---
+h1: Клуб Jetour
+title: Клуб Jetour
+caption: Клуб Jetour
+breadcrumb: Клуб Jetour
+slug: "club"
+image: "https://cdn.alexsab.ru/b/jetour/img/for-owners/club/thumb.webp"
+description: "Клуб Jetour"
+---
+import Button from '@/components/Button/Button.astro';
+import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common } = settings;
+import { phoneFormat } from '@/js/utils/numbers.format';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+
+export const dateFrom = '01.07.2024';
+export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
+export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
+export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+
+<picture>
+	<img src="https://cdn.alexsab.ru/b/jetour/img/for-owners/club/thumb.webp" class="w-full mb-12" alt="Руководства по эксплуатации JETOUR" />
+</picture>
+
+Станьте участником клубных мероприятий и путешествий от Jetour. Вступайте в фан-сообщества Jetour в Telegram.
+
+<Button view="link" url="tg://resolve?domain=alfasmr" title="Вступить" classes="bg-gray-500 border-transparent" />
+<br />
+<br />
+<br />
+<FeedbackForm title="Узнать подробнее" />

@@ -5,26 +5,22 @@ caption: JETOUR предлагает специальные условия на 
 breadcrumb: Специальные условия на покупку Т2
 pubDate: 2024-11-25
 toDate: true
-image: https://cdn.alexsab.ru/specials/jetour/alpha/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/thumb.webp
+image: https://cdn.alexsab.ru/specials/jetour/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/thumb.webp
 description: "Бренд Jetour предлагает новые выгодные условия для приобретения модели Т2 в России. С 22 ноября 2024 года полноприводный кроссовер бренда в комплектации Expedition доступен с выгодой до 320 000 рублей . Также продолжает свое действие специальное условие на T2 в комплектации Voyage с выгодой 100 000 рублей при покупке автомобиля по программе trade-in."
 ---
-import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_entity, legal_city_where } = settings;
-import { phoneFormat } from '@/js/utils/numbers.format';
-import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
-import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 
-export const dateFrom = '01.07.2024';
-export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
-export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
-export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
+import Button from '@/components/Button/Button.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
+import settings from '@/data/settings.json';
+export const { site_name, phone_common, legal_city_where } = settings;
+import { LAST_DAY, MONTH, YEAR } from '@/js/utils/date';
+
+export const DateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 
 <picture>
-    <source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/t2-new-color-3.webp" />
-    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/thumb.webp" />
-    <img src="https://cdn.alexsab.ru/specials/jetour/alpha/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/t2-new-color-3.webp" class="mb-10 lg:mb-20 w-full" alt="Золотая осень с Jetour" />
+    <source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/t2-new-color-3.webp" />
+    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/jetour/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/thumb.webp" />
+    <img src="https://cdn.alexsab.ru/specials/jetour/jetour-predlagaet-specialnye-usloviya-na-pokupku-t2/t2-new-color-3.webp" class="mb-10 lg:mb-20 w-full" alt="Золотая осень с Jetour" />
 </picture>
 
 Бренд Jetour предлагает новые выгодные условия для приобретения модели Т2 в России. С 22 ноября 2024 года полноприводный кроссовер бренда в комплектации Expedition доступен с выгодой до 320&nbsp;000 рублей<sup>1</sup>. Также продолжает свое действие специальное условие на T2 в комплектации Voyage с выгодой 100&nbsp;000&nbsp;рублей при покупке автомобиля по программе trade-in.

@@ -5,19 +5,17 @@ caption: Выгода до 400 000 рублей по программе трей
 breadcrumb: Трейд-ин с выгодой до 400 000 рублей
 pubDate: 2025-03-01
 toDate: true
-image: https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/e7cbcae3b97265382b92eee607fc06ca.webp
+image: https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/e7cbcae3b97265382b92eee607fc06ca.webp
 description: "Скидка предоставляется при приобретении нового автомобиля физическим или юридическим лицом, являющимся законным собственником сдаваемого в зачет приобретения нового автомобиля Jetour"
 ---
 import Button from '@/components/Button/Button.astro';
-import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
+import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import settings from '@/data/settings.json';
-export const { site_name, phone_common, legal_entity, legal_city_where } = settings;
+export const { site_name, phone_common, legal_city_where } = settings;
 import { phoneFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 import Faq from '@/components/Faq/Index.astro';
-import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 
-export const dateFrom = '01.07.2024';
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
 export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
@@ -56,9 +54,9 @@ export const faqData = [
 ];
 
 <picture>
-    <source media="(min-width: 1025px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/thye8v__frame-40145-1.webp" />
-    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/e7cbcae3b97265382b92eee607fc06ca.webp" />
-    <img src="https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/thye8v__frame-40145-1.webp" class="" alt="Трейд-ин с выгодой до 400 000 рублей" />
+    <source media="(min-width: 1025px)" srcset="https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/THyE8v__frame-40145-1.webp" />
+    <source media="(min-width: 320px)" srcset="https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/e7cbcae3b97265382b92eee607fc06ca.webp" />
+    <img src="https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/THyE8v__frame-40145-1.webp" class="" alt="Трейд-ин с выгодой до 400 000 рублей" />
 </picture>
 
 <br />
@@ -95,12 +93,12 @@ export const faqData = [
         />
     </div>
     <div class="md:w-1/2 mb-4 md:mb-0">
-        <img src="https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/dashing.webp" class="w-full h-full object-cover" alt="Jetour Dashing" loading="lazy" />
+        <img src="https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/dashing.webp" class="w-full h-full object-cover" alt="Jetour Dashing" loading="lazy" />
     </div>
 </div>
 <div class="flex flex-col md:flex-row my-14 md:my-20">
     <div class="md:w-1/2 mb-4 md:mb-0">
-        <img src="https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/x-70-plus.webp" class="w-full h-full object-cover" alt="Jetour X70 Plus" loading="lazy" />
+        <img src="https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/x-70-plus.webp" class="w-full h-full object-cover" alt="Jetour X70 Plus" loading="lazy" />
     </div>
     <div class="md:w-1/2 md:pl-8">
         <h3 class="text-2xl sm:text-4xl xl:text-6xl font-bold uppercase mb-4">Jetour X70 Plus</h3>
@@ -131,12 +129,12 @@ export const faqData = [
         />
     </div>
     <div class="md:w-1/2 mb-4 md:mb-0">
-        <img src="https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/x-90-plus.webp" class="w-full h-full object-cover" alt="Jetour X90 Plus" loading="lazy" />
+        <img src="https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/x-90-plus.webp" class="w-full h-full object-cover" alt="Jetour X90 Plus" loading="lazy" />
     </div>
 </div>
 <div class="flex flex-col md:flex-row my-14 md:my-20">
     <div class="md:w-1/2 mb-4 md:mb-0">
-        <img src="https://cdn.alexsab.ru/specials/jetour/alpha/treyd-in-s-vygodoy/t2.webp" class="w-full h-full object-cover" alt="Jetour T2" loading="lazy" />
+        <img src="https://cdn.alexsab.ru/specials/jetour/treyd-in-s-vygodoy/t2.webp" class="w-full h-full object-cover" alt="Jetour T2" loading="lazy" />
     </div>
     <div class="md:w-1/2 md:pl-8">
         <h3 class="text-2xl sm:text-4xl xl:text-6xl font-bold uppercase mb-4">Jetour T2</h3>
@@ -176,3 +174,4 @@ export const faqData = [
 <div class="mt-16">
     <FeedbackForm title="Узнать подробнее" />
 </div>
+

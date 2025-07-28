@@ -34,8 +34,8 @@ export default defineConfig({
 				},
 				{
 					userAgent: ["*"],
-					allow: ["/"],
-					disallow: ["/?*"],
+					// allow: ["/"],
+					disallow: ["*?*"],
 				},
 			],
 		}),

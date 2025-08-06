@@ -3,9 +3,9 @@ h1: Программа поддержки продаж автомобилей Je
 title: Программа поддержки продаж автомобилей Jetour для особых категорий граждан
 caption: Программа поддержки продаж автомобилей Jetour для особых категорий граждан
 breadcrumb: Соцпрограмма
-pubDate: 2025-04-17
-toDate: 2025-06-30
-image: https://cdn.alexsab.ru/specials/jetour/alpha/dashing-socpodderjka/jetour-dashing-socpodderjka-600x340-notxt.webp
+pubDate: 2025-08-01
+toDate: true
+image: https://cdn.alexsab.ru/specials/jetour/alpha/dashing-socpodderjka/thumb.webp
 description: "Выгода при покупке JETOUR DASHING на официальном сайте"
 ---
 
@@ -14,10 +14,11 @@ import FeedbackForm from '@/components/FeedbackForm/FeedbackForm.astro';
 import { TIMER } from '@/const';
 import settings from '@/data/settings.json';
 export const { site_name, phone_common, legal_city_where } = settings;
-import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
+import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR, FIRST_DAY } from '@/js/utils/date';
 import Timer from '@/components/Timer/Timer.astro';
 import Slider from '@/components/Slider/Slider.astro';
 
+export const dateFrom = `${FIRST_DAY}.${MONTH}.${YEAR}`;
 export const dateTo = `${LAST_DAY}.${MONTH}.${YEAR}`;
 export const dateToTimer = `2025-06-30T23:59:59+04:00`;
 export const dateToGenitive = `${LAST_DAY} ${MONTH_GENITIVE} ${YEAR}`;
@@ -27,9 +28,8 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 
 
 <picture>
-	<source media="(min-width: 1024px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/dashing-socpodderjka/jetour-dashing-socpodderjka-1920x720-1.webp" />
-	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/dashing-socpodderjka/jetour-dashing-socpodderjka-1080х1080.webp" />
-	<img src="https://cdn.alexsab.ru/specials/jetour/alpha/dashing-socpodderjka/jetour-dashing-socpodderjka-640x900-2.webp" class="mb-10 lg:mb-20 w-full" alt="Программа поддержки продаж автомобилей Jetour для особых категорий граждан" />
+	<source media="(min-width: 768px)" srcset="https://cdn.alexsab.ru/specials/jetour/alpha/dashing-socpodderjka/banner_desktop.webp" />
+	<img src="https://cdn.alexsab.ru/specials/jetour/alpha/dashing-socpodderjka/banner_tablet.webp" class="mb-10 lg:mb-20 w-full" width="1496" height="561" alt="Программа поддержки продаж автомобилей Jetour для особых категорий граждан" />
 </picture>
 
 
@@ -65,7 +65,7 @@ export const dateToPrepositional = `${MONTH_PREPOSITIONAL} ${YEAR}`;
 </div>
 
 
-> **Срок действия:** 17.04.2025–30.06.2025.
+> **Срок действия:** {dateFrom}–{dateTo}.
 
 > Документ не является публичной офертой (ст. 437 ГК РФ). Участие означает согласие с условиями.
 

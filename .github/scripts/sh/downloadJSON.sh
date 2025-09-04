@@ -16,9 +16,9 @@ show_help() {
     echo
     echo "Available files:"
     echo "  banners.json"
-    echo "  cars.json"
     echo "  faq.json"
-    echo "  federal-models_price.json"
+    echo "  federal-disclaimer.json"
+    echo "  menu.json"
     echo "  models-sections.yml"
     echo "  models.json"
     echo "  reviews.json"
@@ -32,16 +32,16 @@ show_help() {
     echo
     echo "Examples:"
     echo "  $0                   # Download all files"
-    echo "  $0 -f cars.json      # Download only cars.json"
+    echo "  $0 -f banners.json      # Download only banners.json"
     echo "  $0 --file faq.json   # Download only faq.json"
 }
 
 # Список файлов для скачивания
 FILES=(
     "banners.json"
-    "cars.json"
     "faq.json"
-    "federal-models_price.json"
+    "federal-disclaimer.json"
+    "menu.json"
     "models-sections.yml"
     "models.json"
     "reviews.json"

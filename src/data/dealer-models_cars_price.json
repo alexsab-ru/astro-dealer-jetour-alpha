@@ -19,6 +19,12 @@
   },
   {
     "brand": "JETOUR",
+    "model": "X70 Plus",
+    "price": 2349900,
+    "benefit": 650000
+  },
+  {
+    "brand": "JETOUR",
     "model": "X90 Plus",
     "price": 2419900,
     "benefit": 1300000

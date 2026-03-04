@@ -41,6 +41,12 @@
   --font-sans: Manrope, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-heading: Russo One, Manrope, Roboto, ui-sans-serif, system-ui, -apple-system, Segoe UI, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   --font-weight-heading-weight: 400;
+
+  --logo-header-height: clamp(1rem, calc(1.5vw + 0.25rem), 1.2rem);
+  --logo-map-info-height: clamp(1rem, calc(1.5vw + 0.25rem), 1.2rem);
+  --logo-footer-height: clamp(1rem, calc(1.5vw + 0.25rem), 1.2rem);
 }
+
+
 
 

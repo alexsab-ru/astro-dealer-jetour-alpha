@@ -9,9 +9,9 @@ description: "Жаркое лето с Jetour - это выгода на пок�
 ---
 import Button from '@/components/Button/Button.astro';
 import SpecialSalonsInfo from '@/components/SpecialSalonsInfo.astro';
-import settings from '@/data/settings.json';
+import settings from '@/data/site/settings.json';
 export const { site_name, phone_common, brand, legal_entity } = settings;
-import models from '@/data/models.json';
+import models from '@/data/site/models.json';
 import { phoneFormat, currencyFormat } from '@/js/utils/numbers.format';
 import { LAST_DAY, MONTH, MONTH_NOMINATIVE, MONTH_GENITIVE, MONTH_PREPOSITIONAL, YEAR } from '@/js/utils/date';
 

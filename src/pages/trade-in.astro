@@ -14,11 +14,11 @@ const LEGAL_SALONS_INFO = legal_entity && legal_inn ?
 salons
     .filter(salon => salon?.legal_entity && salon?.legal_entity !== '')
     .map(s => `${s?.legal_entity}`);
-import TradeInCalc from '@/components/React/TradeInCalc';
+import TradeInCalc from '@/react/TradeInCalc';
 
 import Layout from '@/layouts/Layout.astro';
-import TradeInForm from '@/components/TradeInForm/TradeInForm.astro';
-import Button from '@/components/Button/Button.astro';
+import TradeInForm from '@/blocks/forms/trade-in-form/TradeInForm.astro';
+import Button from '@/ui/button/Button.astro';
 const { brand } = settings;
 const benefit = '450 000';
 ---

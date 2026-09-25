@@ -1,59 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<data><cars><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>Комфорт</complectation_name><credit_discount>350000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
-Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
-
-«JETOUR Авторассрочка» 0,01%
-Банки-партнеры: Альфа-Банк, Совкомбанк, Т Банк, ВТБ.
-
-Гарантия 5 лет или 150 000 км
-
-Почему стоит покупать JETOUR в АЛЬФА на Ново-Урицкой:
-- Опыт работы более 18 лет!
-- Покупка автомобиля за один день
-- Честные цены!
-- Индивидуальное предложение каждому клиенту!
-- Дистанционная оценка Вашего автомобиля
-- Выгодный ТРЕЙД-ИН
-- Автомобили в наличии и с ПТС
-- Расположение рядом с центром города, удобная парковка
-- Работаем со всеми лизинговыми компаниями
-
-Если Вы не из Самары – встретим Вас в удобной точке!
-
-Адрес официального дилера JETOUR: Самара, ул. Ново-Урицкая 22.
-Звоните или пишите в чат – успейте забрать индивидуальную выгоду!
-
-*Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
-
-Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/0/full.webp?v=b9fbffd28e00</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/1/full.webp?v=ebec2212e5cb</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/2/full.webp?v=ab0c817cc20b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/3/full.webp?v=f77850b76f2c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/4/full.webp?v=274e78b0520d</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/5/full.webp?v=40cd983f399a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/6/full.webp?v=7ebcdf574201</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/7/full.webp?v=9b81df6495fd</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/8/full.webp?v=2b1efb6f78bf</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/9/full.webp?v=fb4ce1797825</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>760000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>160000</optional_discount><price>2796810</price><tradein_discount>200000</tradein_discount><vin>EC3DCUFD1TC015407</vin><wheel>левый</wheel><year>2026</year><color_rus>Галактический черный</color_rus><color_eng>black</color_eng><priceWithDiscount>2036810</priceWithDiscount><sale_price>2036810</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-comfort-black-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD1TC015407/0/full.webp?v=b9fbffd28e00</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>Комфорт</complectation_name><credit_discount>350000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
-Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
-
-«JETOUR Авторассрочка» 0,01%
-Банки-партнеры: Альфа-Банк, Совкомбанк, Т Банк, ВТБ.
-
-Гарантия 5 лет или 150 000 км
-
-Почему стоит покупать JETOUR в АЛЬФА на Ново-Урицкой:
-- Опыт работы более 18 лет!
-- Покупка автомобиля за один день
-- Честные цены!
-- Индивидуальное предложение каждому клиенту!
-- Дистанционная оценка Вашего автомобиля
-- Выгодный ТРЕЙД-ИН
-- Автомобили в наличии и с ПТС
-- Расположение рядом с центром города, удобная парковка
-- Работаем со всеми лизинговыми компаниями
-
-Если Вы не из Самары – встретим Вас в удобной точке!
-
-Адрес официального дилера JETOUR: Самара, ул. Ново-Урицкая 22.
-Звоните или пишите в чат – успейте забрать индивидуальную выгоду!
-
-*Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
-
-Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/0/full.webp?v=1cc0e32d9008</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/1/full.webp?v=877a958ed526</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/2/full.webp?v=7526ba902320</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/3/full.webp?v=40a6e0c5a95f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/4/full.webp?v=4d5f924f44f9</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/5/full.webp?v=d0504a63f5eb</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/6/full.webp?v=ad18d8c3a7a7</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/7/full.webp?v=b20939e7bfc5</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/8/full.webp?v=44776c9169a5</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>760000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>160000</optional_discount><price>2796710</price><tradein_discount>200000</tradein_discount><vin>EC3DCUFD3TC014890</vin><wheel>левый</wheel><year>2026</year><color_rus>Галактический черный</color_rus><color_eng>black</color_eng><priceWithDiscount>2036710</priceWithDiscount><sale_price>2036710</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-comfort-black-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD3TC014890/0/full.webp?v=1cc0e32d9008</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>Комфорт</complectation_name><credit_discount>150000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
+<data><cars><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>Комфорт</complectation_name><credit_discount>150000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
 Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
 
 Скидки по СОЦИАЛЬНОЙ ПРОГРАММЕ военным, госслужащим, медикам, учителям и родителям с детьми!
@@ -164,90 +110,7 @@
 *Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
 
 Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/0/full.webp?v=883a91f11ffb</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/1/full.webp?v=5d4e45c9d9c5</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/2/full.webp?v=426bd07a61f7</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/3/full.webp?v=dd9e7cc018c6</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/4/full.webp?v=2afe217d5b70</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/5/full.webp?v=abf4c0e4169f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/6/full.webp?v=85a922ca56cf</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/7/full.webp?v=1f59cbc2518b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/8/full.webp?v=129991ea4377</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/9/full.webp?v=434e38c72cbd</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/10/full.webp?v=a4c84bd51dfc</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/11/full.webp?v=e9955c65c68f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/12/full.webp?v=2fb192f7480d</image></images><insurance_discount>0</insurance_discount><mark_id>Jetour</mark_id><max_discount>760000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>110000</optional_discount><price>2813225</price><tradein_discount>200000</tradein_discount><vin>EC3DCUFD9TC013419</vin><wheel>левый</wheel><year>2026</year><color_rus>Изумрудно-зеленый</color_rus><color_eng>green</color_eng><priceWithDiscount>2053225</priceWithDiscount><sale_price>2053225</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-comfort-green-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC013419/0/full.webp?v=883a91f11ffb</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>ЗЕЛЕНЫЙ</color><complectation_name>Комфорт</complectation_name><credit_discount>300000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
-Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
-
-«JETOUR Авторассрочка» 0,01%
-Банки-партнеры: Альфа-Банк, Совкомбанк, Т Банк, ВТБ.
-
-Гарантия 5 лет или 150 000 км
-
-Почему стоит покупать JETOUR в АЛЬФА на Ново-Урицкой:
-- Опыт работы более 18 лет!
-- Покупка автомобиля за один день
-- Честные цены!
-- Индивидуальное предложение каждому клиенту!
-- Дистанционная оценка Вашего автомобиля
-- Выгодный ТРЕЙД-ИН
-- Автомобили в наличии и с ПТС
-- Расположение рядом с центром города, удобная парковка
-- Работаем со всеми лизинговыми компаниями
-
-Если Вы не из Самары – встретим Вас в удобной точке!
-
-Адрес официального дилера JETOUR: Самара, ул. Ново-Урицкая 22.
-Звоните или пишите в чат – успейте забрать индивидуальную выгоду!
-
-*Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
-
-Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/0/full.webp?v=d12a24689768</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/1/full.webp?v=71c88c924724</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/2/full.webp?v=d48bff9e5900</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/2/full.webp?v=a485ffc16e10</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/4/full.webp?v=02416230f5ed</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/3/full.webp?v=93a409de02f4</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/4/full.webp?v=fb5be2e40137</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/5/full.webp?v=a29cf7eff84d</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/6/full.webp?v=4f5a172d566a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/7/full.webp?v=f4ec02a0f9b2</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/8/full.webp?v=7aa4721c9e4e</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/9/full.webp?v=bb7085bec355</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/10/full.webp?v=a7e3abda26f4</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>760000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>110000</optional_discount><price>2759900</price><tradein_discount>200000</tradein_discount><vin>EC3DCUFD9TC015669</vin><wheel>левый</wheel><year>2026</year><color_rus>Изумрудно-зеленый</color_rus><color_eng>green</color_eng><priceWithDiscount>1999900</priceWithDiscount><sale_price>1999900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-comfort-green-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/0/full.webp?v=d12a24689768</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Серый</color><complectation_name>Комфорт</complectation_name><credit_discount>150000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
-Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
-
-Скидки по СОЦИАЛЬНОЙ ПРОГРАММЕ военным, госслужащим, медикам, учителям и родителям с детьми!
-«JETOUR Авторассрочка» 0,01%
-Банки-партнеры: Альфа-Банк, Совкомбанк, Т Банк, ВТБ.
-
-Гарантия 5 лет или 150 000 км
-
-Почему стоит покупать JETOUR в АЛЬФА на Ново-Урицкой:
-- Опыт работы более 18 лет!
-- Покупка автомобиля за один день
-- Честные цены!
-- Индивидуальное предложение каждому клиенту!
-- Дистанционная оценка Вашего автомобиля
-- Выгодный ТРЕЙД-ИН
-- Автомобили в наличии и с ПТС
-- Расположение рядом с центром города, удобная парковка
-- Работаем со всеми лизинговыми компаниями
-
-Если Вы не из Самары – встретим Вас в удобной точке!
-
-Адрес официального дилера JETOUR: Самара, ул. Ново-Урицкая 22.
-Звоните или пишите в чат – успейте забрать индивидуальную выгоду!
-
-*Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
-
-Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/0/full.webp?v=639258d0fb69</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/1/full.webp?v=f8a4c16288ab</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/2/full.webp?v=3139eede9777</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/3/full.webp?v=76aaa6087cfb</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/4/full.webp?v=646869d4fda3</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/5/full.webp?v=ca6475b45474</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/6/full.webp?v=4b91fc51295a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/7/full.webp?v=a8c54460ca9e</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/8/full.webp?v=228f451b1da3</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/9/full.webp?v=2fd7248ccf5c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/10/full.webp?v=a3d0974158a1</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/11/full.webp?v=cce20f3d2e62</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/12/full.webp?v=33afa5eb4e9d</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>760000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>270000</optional_discount><price>2779900</price><tradein_discount>200000</tradein_discount><vin>EC3DCUFD9TC017695</vin><wheel>левый</wheel><year>2026</year><color_rus>Призрачный серый</color_rus><color_eng>gray</color_eng><priceWithDiscount>2019900</priceWithDiscount><sale_price>2019900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-comfort-gray-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC017695/0/full.webp?v=639258d0fb69</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>Люкс</complectation_name><credit_discount>300000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
-Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
-
-«JETOUR Авторассрочка» ставка от  0,01%
-Автокредит до 96 месяцев
-Банки-партнеры: Альфа-Банк, Совкомбанк, Т Банк, ВТБ.
-
-Гарантия 5 лет или 150 000 км
-
-Почему стоит покупать JETOUR в АЛЬФА на Ново-Урицкой:
-- Опыт работы более 18 лет!
-- Покупка автомобиля за один день
-- Честные цены!
-- Индивидуальное предложение каждому клиенту!
-- Дистанционная оценка Вашего автомобиля
-- Выгодный ТРЕЙД-ИН
-- Автомобили в наличии и с ПТС
-- Расположение рядом с центром города, удобная парковка
-- Работаем со всеми лизинговыми компаниями
-
-Если Вы не из Самары – встретим Вас в удобной точке!
-
-Адрес официального дилера JETOUR: Самара, ул. Ново-Урицкая 22.
-Звоните или пишите в чат – успейте забрать индивидуальную выгоду!
-
-* НЕ оферта. Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
-
-Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/0/full.webp?v=90c93a4a7e4f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/1/full.webp?v=9fb5004b9a6b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/2/full.webp?v=5275ff1b64f9</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/3/full.webp?v=705b6c5c87fd</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/4/full.webp?v=e69e8f5d72e3</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/5/full.webp?v=228f92826409</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/6/full.webp?v=5540c2ab43ee</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/7/full.webp?v=3ee014ee646a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/8/full.webp?v=aa21486696fc</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/9/full.webp?v=29befab5921a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/10/full.webp?v=ccbb36df44a2</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/11/full.webp?v=b4854bc83236</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>770000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>200000</optional_discount><price>2939900</price><tradein_discount>220000</tradein_discount><vin>EC3DEUFDXSC004379</vin><wheel>левый</wheel><year>2026</year><color_rus>Лунный белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2169900</priceWithDiscount><sale_price>2169900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-luxury-white-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DEUFDXSC004379/0/full.webp?v=90c93a4a7e4f</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>Престиж</complectation_name><credit_discount>200000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
+Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/0/full.webp?v=d12a24689768</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/1/full.webp?v=71c88c924724</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/2/full.webp?v=d48bff9e5900</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/2/full.webp?v=a485ffc16e10</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/4/full.webp?v=02416230f5ed</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/3/full.webp?v=93a409de02f4</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/4/full.webp?v=fb5be2e40137</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/5/full.webp?v=a29cf7eff84d</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/6/full.webp?v=4f5a172d566a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/7/full.webp?v=f4ec02a0f9b2</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/8/full.webp?v=7aa4721c9e4e</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/9/full.webp?v=bb7085bec355</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/10/full.webp?v=a7e3abda26f4</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>760000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>110000</optional_discount><price>2759900</price><tradein_discount>200000</tradein_discount><vin>EC3DCUFD9TC015669</vin><wheel>левый</wheel><year>2026</year><color_rus>Изумрудно-зеленый</color_rus><color_eng>green</color_eng><priceWithDiscount>1999900</priceWithDiscount><sale_price>1999900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-comfort-green-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC015669/0/full.webp?v=d12a24689768</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Белый</color><complectation_name>Престиж</complectation_name><credit_discount>200000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
 Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
 
 «JETOUR Авторассрочка» 0,01%
@@ -356,63 +219,7 @@
 *Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
 
 Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/0/full.webp?v=103bcb99e507</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/1/full.webp?v=9197ccf40251</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/2/full.webp?v=dc3230c19f0b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/3/full.webp?v=f7b809711f44</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/4/full.webp?v=32771cb093a0</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/5/full.webp?v=c2759ac99aaf</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/6/full.webp?v=79c3aa182b7b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/7/full.webp?v=3e77792ccb76</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/8/full.webp?v=5d45bdb8f4a4</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/9/full.webp?v=1d8d483edf6a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/10/full.webp?v=94f5b239ca9a</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>610000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3029900</price><tradein_discount>200000</tradein_discount><vin>EC3DLUFD3TC016803</vin><wheel>левый</wheel><year>2026</year><color_rus>Лунный белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/0/full.webp?v=103bcb99e507</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>ЗЕЛЕНЫЙ</color><complectation_name>Престиж</complectation_name><credit_discount>200000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
-Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
-
-Скидки по СОЦИАЛЬНОЙ ПРОГРАММЕ военным, госслужащим, медикам, учителям и родителям с детьми!
-«JETOUR Авторассрочка» 0,01%
-Банки-партнеры: Альфа-Банк, Совкомбанк, Т Банк, ВТБ.
-
-Гарантия 5 лет или 150 000 км
-
-Почему стоит покупать JETOUR в АЛЬФА на Ново-Урицкой:
-- Опыт работы более 18 лет!
-- Покупка автомобиля за один день
-- Честные цены!
-- Индивидуальное предложение каждому клиенту!
-- Дистанционная оценка Вашего автомобиля
-- Выгодный ТРЕЙД-ИН
-- Автомобили в наличии и с ПТС
-- Расположение рядом с центром города, удобная парковка
-- Работаем со всеми лизинговыми компаниями
-
-Если Вы не из Самары – встретим Вас в удобной точке!
-
-Адрес официального дилера JETOUR: Самара, ул. Ново-Урицкая 22.
-Звоните или пишите в чат – успейте забрать индивидуальную выгоду!
-
-*Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
-
-Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/0/full.webp?v=08b748fc6a98</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/1/full.webp?v=fbe8cabfa332</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/2/full.webp?v=5d27fa43984c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/3/full.webp?v=1e5a73af694c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/4/full.webp?v=926283bcf62d</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/5/full.webp?v=53b28af7356b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/6/full.webp?v=768d4e0ca80a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/7/full.webp?v=1961e870d2d0</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/8/full.webp?v=2145ad767ed6</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/9/full.webp?v=f733367cd3b7</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/10/full.webp?v=a605ef119831</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/11/full.webp?v=eb77cca84195</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/12/full.webp?v=a116f13011ac</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>610000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>160000</optional_discount><price>3029900</price><tradein_discount>200000</tradein_discount><vin>EC3DLUFD8TC016490</vin><wheel>левый</wheel><year>2026</year><color_rus>Изумрудно-зеленый</color_rus><color_eng>green</color_eng><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-green-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016490/0/full.webp?v=08b748fc6a98</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>ЗЕЛЕНЫЙ</color><complectation_name>Престиж</complectation_name><credit_discount>200000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
-Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
-
-Скидки по СОЦИАЛЬНОЙ ПРОГРАММЕ военным, госслужащим, медикам, учителям и родителям с детьми!
-«JETOUR Авторассрочка» 0,01%
-Банки-партнеры: Альфа-Банк, Совкомбанк, Т Банк, ВТБ.
-
-Гарантия 5 лет или 150 000 км
-
-Почему стоит покупать JETOUR в АЛЬФА на Ново-Урицкой:
-- Опыт работы более 18 лет!
-- Покупка автомобиля за один день
-- Честные цены!
-- Индивидуальное предложение каждому клиенту!
-- Дистанционная оценка Вашего автомобиля
-- Выгодный ТРЕЙД-ИН
-- Автомобили в наличии и с ПТС
-- Расположение рядом с центром города, удобная парковка
-- Работаем со всеми лизинговыми компаниями
-
-Если Вы не из Самары – встретим Вас в удобной точке!
-
-Адрес официального дилера JETOUR: Самара, ул. Ново-Урицкая 22.
-Звоните или пишите в чат – успейте забрать индивидуальную выгоду!
-
-*Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
-
-Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/0/full.webp?v=1375f41bca81</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/1/full.webp?v=570bd26eaea3</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/2/full.webp?v=5b3a20df43fb</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/3/full.webp?v=a5c498a487e0</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/4/full.webp?v=c6b90071ef40</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/5/full.webp?v=4dadd4d57318</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/6/full.webp?v=514f5e7fdd44</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/7/full.webp?v=1408e59456f1</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/8/full.webp?v=5db4b96f3c3c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/9/full.webp?v=1d492ea5f8bb</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/10/full.webp?v=9aa99e4d0466</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/11/full.webp?v=f72a8ca73014</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/12/full.webp?v=0ade9219553d</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>610000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>160000</optional_discount><price>3029900</price><tradein_discount>200000</tradein_discount><vin>EC3DLUFD8TC016800</vin><wheel>левый</wheel><year>2026</year><color_rus>Изумрудно-зеленый</color_rus><color_eng>green</color_eng><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-green-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC016800/0/full.webp?v=1375f41bca81</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>Престиж</complectation_name><credit_discount>200000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
+Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>DASHING, I</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/0/full.webp?v=103bcb99e507</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/1/full.webp?v=9197ccf40251</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/2/full.webp?v=dc3230c19f0b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/3/full.webp?v=f7b809711f44</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/4/full.webp?v=32771cb093a0</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/5/full.webp?v=c2759ac99aaf</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/6/full.webp?v=79c3aa182b7b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/7/full.webp?v=3e77792ccb76</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/8/full.webp?v=5d45bdb8f4a4</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/9/full.webp?v=1d8d483edf6a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/10/full.webp?v=94f5b239ca9a</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>610000</max_discount><modification_id>1.5 AMT (147 л.с.)</modification_id><optional_discount>0</optional_discount><price>3029900</price><tradein_discount>200000</tradein_discount><vin>EC3DLUFD3TC016803</vin><wheel>левый</wheel><year>2026</year><color_rus>Лунный белый</color_rus><color_eng>white</color_eng><priceWithDiscount>2419900</priceWithDiscount><sale_price>2419900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</url><model_name>Dashing</model_name><model_id>dashing</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/0/full.webp?v=103bcb99e507</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>Престиж</complectation_name><credit_discount>200000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
 Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
 
 Скидки по СОЦИАЛЬНОЙ ПРОГРАММЕ военным, госслужащим, медикам, учителям и родителям с детьми!
@@ -719,7 +526,7 @@
 *Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
 
 Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>T1</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/0/full.webp?v=69c823365e7c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/1/full.webp?v=77b62dfaa3c5</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/2/full.webp?v=cfff6a707e62</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/3/full.webp?v=4c76907e104b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/4/full.webp?v=431d4609f963</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/5/full.webp?v=163af51e641a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/6/full.webp?v=7d8e90a89cc9</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/7/full.webp?v=d1f8eb6f8e6b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/8/full.webp?v=775c78151a57</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/9/full.webp?v=532008c5c21d</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/10/full.webp?v=d94de8d0ddd1</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/11/full.webp?v=4d9b92de152f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/12/full.webp?v=6ed234b77fd0</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/13/full.webp?v=2828e998de0c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/14/full.webp?v=6b65c35c4ba9</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/15/full.webp?v=798dc504effa</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/16/full.webp?v=494414d7969f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/17/full.webp?v=a5649c2e6f3e</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/18/full.webp?v=dd493c3c6802</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>529000</max_discount><modification_id>2.0 AT (245 л.с.) 4WD</modification_id><optional_discount>0</optional_discount><price>4199900</price><tradein_discount>150000</tradein_discount><vin>LVTDD24B2TDC03421</vin><wheel>левый</wheel><year>2026</year><color_rus>Черный</color_rus><color_eng>black</color_eng><priceWithDiscount>3670900</priceWithDiscount><sale_price>3670900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url><model_name>T1</model_name><model_id>t1</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/0/full.webp?v=69c823365e7c</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный матовый</color><complectation_name>Премиум</complectation_name><credit_discount>100000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
+Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>T1</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/0/full.webp?v=69c823365e7c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/1/full.webp?v=77b62dfaa3c5</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/2/full.webp?v=cfff6a707e62</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/3/full.webp?v=4c76907e104b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/4/full.webp?v=431d4609f963</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/5/full.webp?v=163af51e641a</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/6/full.webp?v=7d8e90a89cc9</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/7/full.webp?v=d1f8eb6f8e6b</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/8/full.webp?v=775c78151a57</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/9/full.webp?v=532008c5c21d</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/10/full.webp?v=d94de8d0ddd1</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/11/full.webp?v=4d9b92de152f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/12/full.webp?v=6ed234b77fd0</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/13/full.webp?v=2828e998de0c</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/14/full.webp?v=6b65c35c4ba9</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/15/full.webp?v=798dc504effa</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/16/full.webp?v=494414d7969f</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/17/full.webp?v=a5649c2e6f3e</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/18/full.webp?v=dd493c3c6802</image></images><insurance_discount>50000</insurance_discount><mark_id>Jetour</mark_id><max_discount>529000</max_discount><modification_id>2.0 AT (245 л.с.) 4WD</modification_id><optional_discount>0</optional_discount><price>4199900</price><tradein_discount>150000</tradein_discount><vin>LVTDD24B2TDC03421</vin><wheel>левый</wheel><year>2026</year><color_rus>Черный</color_rus><color_eng>black</color_eng><priceWithDiscount>3670900</priceWithDiscount><sale_price>3670900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url><model_name>T1</model_name><model_id>t1</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC03421/0/full.webp?v=69c823365e7c</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>Премиум</complectation_name><credit_discount>100000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
 Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
 
 Скидки по СОЦИАЛЬНОЙ ПРОГРАММЕ военным, госслужащим, медикам, учителям и родителям с детьми!
@@ -747,7 +554,7 @@
 *Цена автомобиля указана с учетом максимальных выгод, подробности уточняются в отделе продаж.
 
 Место осмотра
-Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>T1</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/1/full.webp?v=fb7d3f3fd7f7</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/2/full.webp?v=38956338c2f2</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/3/full.webp?v=2cefae21f1a3</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/4/full.webp?v=c02703a56e46</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/5/full.webp?v=57a0301a4d60</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/6/full.webp?v=d0aa6b54b594</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/7/full.webp?v=21cb224685ee</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/8/full.webp?v=accf440bb575</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/9/full.webp?v=535d66758117</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/9/full.webp?v=c7d1f8350baa</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/10/full.webp?v=a49e26a4ac75</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/11/full.webp?v=b335ef18f698</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/12/full.webp?v=826fd2264485</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/13/full.webp?v=ce4ca30cd2c7</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/14/full.webp?v=d4e6cc57f0be</image></images><insurance_discount>0</insurance_discount><mark_id>Jetour</mark_id><max_discount>300000</max_discount><modification_id>2.0 AT (245 л.с.) 4WD</modification_id><optional_discount>100000</optional_discount><price>4399900</price><tradein_discount>100000</tradein_discount><vin>LVTDD24B2TDC41327</vin><wheel>левый</wheel><year>2026</year><color_rus>Черный матовый</color_rus><color_eng>черный-матовый</color_eng><priceWithDiscount>4099900</priceWithDiscount><sale_price>4099900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-matovyy-2026/</url><model_name>T1</model_name><model_id>t1</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/1/full.webp?v=fb7d3f3fd7f7</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>Премиум</complectation_name><credit_discount>100000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
+Осмотреть автомобиль можно по адресу: Самара, Ново-Урицкая 22</description><folder_id>T1</folder_id><images><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/1/full.webp?v=fb7d3f3fd7f7</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/2/full.webp?v=38956338c2f2</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/3/full.webp?v=2cefae21f1a3</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/4/full.webp?v=c02703a56e46</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/5/full.webp?v=57a0301a4d60</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/6/full.webp?v=d0aa6b54b594</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/7/full.webp?v=21cb224685ee</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/8/full.webp?v=accf440bb575</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/9/full.webp?v=535d66758117</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/9/full.webp?v=c7d1f8350baa</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/10/full.webp?v=a49e26a4ac75</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/11/full.webp?v=b335ef18f698</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/12/full.webp?v=826fd2264485</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/13/full.webp?v=ce4ca30cd2c7</image><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/14/full.webp?v=d4e6cc57f0be</image></images><insurance_discount>0</insurance_discount><mark_id>Jetour</mark_id><max_discount>300000</max_discount><modification_id>2.0 AT (245 л.с.) 4WD</modification_id><optional_discount>100000</optional_discount><price>4399900</price><tradein_discount>100000</tradein_discount><vin>LVTDD24B2TDC41327</vin><wheel>левый</wheel><year>2026</year><color_rus>Черный</color_rus><color_eng>black</color_eng><priceWithDiscount>4099900</priceWithDiscount><sale_price>4099900</sale_price><currency>RUR</currency><url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url><model_name>T1</model_name><model_id>t1</model_id><image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/1/full.webp?v=fb7d3f3fd7f7</image></car><car><availability>в наличии</availability><body_type>Внедорожник 5 дв.</body_type><color>Черный</color><complectation_name>Премиум</complectation_name><credit_discount>100000</credit_discount><description>Автомобили в наличии! В автосалоне АЛЬФА -JETOUR!
 Специальные условия на весь модельный ряд JETOUR — выгоды, от которых трудно отказаться!
 
 Скидки по СОЦИАЛЬНОЙ ПРОГРАММЕ военным, госслужащим, медикам, учителям и родителям с детьми!

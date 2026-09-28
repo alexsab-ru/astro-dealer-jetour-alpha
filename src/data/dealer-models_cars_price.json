@@ -16,5 +16,11 @@
     "model": "T2",
     "price": 3690000,
     "benefit": 759000
+  },
+  {
+    "brand": "Jetour",
+    "model": "X70+",
+    "price": 2379000,
+    "benefit": 720000
   }
 ]

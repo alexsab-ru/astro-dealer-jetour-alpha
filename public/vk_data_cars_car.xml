@@ -1,0 +1,971 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <cars>
+    <car>
+      <unique_id>EC37CUSM2TC008565</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-comfort-gray-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>X70+, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>EC37CUSM2TC008565</vin>
+      <price>3099000</price>
+      <sale_price>2499000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>600000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour X70+, I Рестайлинг, Комфорт, 1.6 AMT (190 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/0/full.webp?v=0559e64dfe97</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/1/full.webp?v=5cfc9e9b2814</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/2/full.webp?v=e47cca56897e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/3/full.webp?v=7514ac57b345</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/4/full.webp?v=b7e0d09c28f9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/5/full.webp?v=e39c1607d700</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/6/full.webp?v=d6bbc4d52cae</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/7/full.webp?v=b8f76472ed9d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/8/full.webp?v=264b98b6439a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/9/full.webp?v=22bf9103f962</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/10/full.webp?v=d86eb9b9644e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/11/full.webp?v=89aaa1b31dc9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/12/full.webp?v=3bf2125bf10c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/13/full.webp?v=2a8410f3621c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/14/full.webp?v=19b7568581d6</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/15/full.webp?v=38913389669b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/16/full.webp?v=bd3305f0922c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/17/full.webp?v=c2b6dd0b77b4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/18/full.webp?v=803ffd3e2ae9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/19/full.webp?v=86a0720fda8b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC37LUSM3TC008946</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-prestige-gray-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>X70+, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>EC37LUSM3TC008946</vin>
+      <price>3399000</price>
+      <sale_price>2569000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>830000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour X70+, I Рестайлинг, Престиж, 1.6 AMT (190 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/0/full.webp?v=f13639af004f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/1/full.webp?v=5fc8b9e25f7d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/2/full.webp?v=da5c97df8e66</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/3/full.webp?v=a6e5769d0a02</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/4/full.webp?v=bc43ec398abd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/5/full.webp?v=c335497d8117</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/6/full.webp?v=ff80bc8b9da6</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/7/full.webp?v=86083b90c59d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/8/full.webp?v=ee3571470fb3</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/9/full.webp?v=126548a85927</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/10/full.webp?v=39beea318829</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/11/full.webp?v=2705abcb9250</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/12/full.webp?v=3f6b1160db83</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/13/full.webp?v=c529d165634c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/14/full.webp?v=24fe62e164ef</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/15/full.webp?v=d475ed3ea487</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/16/full.webp?v=53279464ef8f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/17/full.webp?v=38df1436c8f7</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC37LUSM5TC009435</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>X70+, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>EC37LUSM5TC009435</vin>
+      <price>3399000</price>
+      <sale_price>2839000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>560000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour X70+, I Рестайлинг, Престиж, 1.6 AMT (190 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/0/full.webp?v=1218fcde9969</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/1/full.webp?v=45a2994baf8a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/2/full.webp?v=3607640c6da3</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/3/full.webp?v=7d8b006ad17d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/4/full.webp?v=f097235c415f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/5/full.webp?v=55910895122a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/6/full.webp?v=6d70181ac9d6</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/7/full.webp?v=2174f263d681</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/8/full.webp?v=6d5c54a0f966</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/9/full.webp?v=b7647e4371ec</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/10/full.webp?v=9d04fe292707</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/11/full.webp?v=a34b1dad0385</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC009435/12/full.webp?v=eaf2c2d83082</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD0TC018914</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD0TC018914</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/0/full.webp?v=d9ff62fa9357</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/1/full.webp?v=8479e16fbfb2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/2/full.webp?v=02eb51920d2a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/3/full.webp?v=328ecc6f1732</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/4/full.webp?v=56be8a0117ba</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/5/full.webp?v=1b948f91e706</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/6/full.webp?v=65246d650967</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/7/full.webp?v=c7820b2f6960</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/8/full.webp?v=8e54c1ea8dfc</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/9/full.webp?v=c31a135cca9d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/10/full.webp?v=736014b5c428</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/11/full.webp?v=f4088d4e6cce</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD1TC018677</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-green-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD1TC018677</vin>
+      <price>2949900</price>
+      <sale_price>2280000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>669900</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., зеленый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/0/full.webp?v=67946864ef49</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/1/full.webp?v=846b2ab02240</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/2/full.webp?v=9956f64a1ded</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/3/full.webp?v=9a9e48b3e49e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/4/full.webp?v=8ef136a015d8</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/5/full.webp?v=0cf2f0dc9f74</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/6/full.webp?v=a451550443a7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/7/full.webp?v=a799967efb1c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/8/full.webp?v=677b78fdd60d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/9/full.webp?v=ebdbd3544431</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/10/full.webp?v=1735fc6d65c8</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/11/full.webp?v=70bbdaa3ee51</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD1TC018677/12/full.webp?v=efe61c622a13</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD2TC018557</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD2TC018557</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/0/full.webp?v=e29841937097</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/1/full.webp?v=fb362a1531fd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/2/full.webp?v=47c2e291754f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/3/full.webp?v=5111e42924a2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/4/full.webp?v=fd762e59c683</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/5/full.webp?v=fd641089b916</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/6/full.webp?v=53495e6d6a1a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD2TC018557/7/full.webp?v=d22ef3b51e75</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD3TC016638</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD3TC016638</vin>
+      <price>2949900</price>
+      <sale_price>2280000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>669900</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/0/full.webp?v=64b20422f3d9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/1/full.webp?v=e413d11e1a50</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/2/full.webp?v=5226f8d08d56</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/3/full.webp?v=e41aa8faf091</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/4/full.webp?v=4ce0bbd8c4ef</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/5/full.webp?v=01c6d67f8c5c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/6/full.webp?v=a8d610d81164</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/7/full.webp?v=d9662f40d5b0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/8/full.webp?v=1463669e3487</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/9/full.webp?v=0bb71c08ac86</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/10/full.webp?v=25ac74562434</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD3TC016803</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD3TC016803</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/0/full.webp?v=103bcb99e507</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/1/full.webp?v=9197ccf40251</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/2/full.webp?v=dc3230c19f0b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/3/full.webp?v=f7b809711f44</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/4/full.webp?v=32771cb093a0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/5/full.webp?v=c2759ac99aaf</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/6/full.webp?v=79c3aa182b7b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/7/full.webp?v=3e77792ccb76</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/8/full.webp?v=5d45bdb8f4a4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/9/full.webp?v=1d8d483edf6a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016803/10/full.webp?v=94f5b239ca9a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD3TC020267</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-gray-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD3TC020267</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/0/full.webp?v=f044214197bc</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/1/full.webp?v=654f5287276f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/2/full.webp?v=03fa630b57e2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/3/full.webp?v=1b8653cdec57</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/4/full.webp?v=947f79bebf19</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/5/full.webp?v=c5157b439b10</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/6/full.webp?v=91370d095cbc</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/7/full.webp?v=0e59f5379d3a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/8/full.webp?v=0f8624e5d5e0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/9/full.webp?v=aa9265933c8c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/10/full.webp?v=63369b51b6ee</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/11/full.webp?v=b9c0eba373c1</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD5TC017127</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD5TC017127</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/0/full.webp?v=0a25e2aa1968</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/1/full.webp?v=1e25d34dca0c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/2/full.webp?v=c187e046d0d1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/3/full.webp?v=6aa5ce1b3dfe</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/4/full.webp?v=687664fd11cc</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/5/full.webp?v=0b54c69f72d1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/6/full.webp?v=e87369dba291</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/7/full.webp?v=c308a35d32e0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD5TC017127/8/full.webp?v=6d10e49702c9</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD6TC016861</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD6TC016861</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/0/full.webp?v=53fd36d8ec45</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/1/full.webp?v=27f9db36ed08</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/2/full.webp?v=6dee00ecf741</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/3/full.webp?v=1bad687cccd0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/4/full.webp?v=d4ea2a63fab8</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/5/full.webp?v=c0d95b1823d3</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/6/full.webp?v=bfc60c7b6142</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/7/full.webp?v=f9af123cfd2a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/8/full.webp?v=9439d7cf9656</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/9/full.webp?v=4715e75753f7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/10/full.webp?v=7bfde09189f2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/11/full.webp?v=2fbee59eb975</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/12/full.webp?v=22f2677942fd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/13/full.webp?v=b1eac91422b8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD6TC017203</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD6TC017203</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/0/full.webp?v=399bfaf70621</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/1/full.webp?v=c07863c7eb59</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/2/full.webp?v=bb19c2fd5eb0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/3/full.webp?v=d55f15f03046</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/4/full.webp?v=41520bde2b61</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/5/full.webp?v=58713633ea11</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/6/full.webp?v=3de27b412512</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/7/full.webp?v=0bbcfe078f6d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/8/full.webp?v=f12eb3f4f289</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC017203/9/full.webp?v=5cde64f1e8ef</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD6TC020215</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-gray-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD6TC020215</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/0/full.webp?v=0cd968f561b6</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/1/full.webp?v=74d28b05732a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/2/full.webp?v=97c3ab61ecdd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/3/full.webp?v=4873584587f7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/4/full.webp?v=372fa60ef5d1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/5/full.webp?v=e5a976e7d455</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/6/full.webp?v=7e0524773661</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/7/full.webp?v=c0bfbb51bf84</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/8/full.webp?v=7798decf498c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/9/full.webp?v=758dcc138367</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/10/full.webp?v=41bec3663560</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/11/full.webp?v=612b4b02e615</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/12/full.webp?v=38bb240b6e03</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD7TC016917</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD7TC016917</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>белый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/0/full.webp?v=799a6a90f75e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/1/full.webp?v=f3407d800344</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/2/full.webp?v=2a5948bcf76d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/3/full.webp?v=63b6a80fd02b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/4/full.webp?v=cf94f26d305d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/5/full.webp?v=0004295fbea9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/6/full.webp?v=4a0e5deaf912</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/7/full.webp?v=4c200bb31b0b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/8/full.webp?v=c7340f4548bd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/9/full.webp?v=61dc1c1eb026</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/10/full.webp?v=ad9cb9440506</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/11/full.webp?v=4c23ef1c9a60</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD7TC018618</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-green-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD7TC018618</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., зеленый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/0/full.webp?v=77034f38bfd3</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/1/full.webp?v=9e2f969132ca</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/2/full.webp?v=fc4cabbac479</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/3/full.webp?v=8392a470545d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/4/full.webp?v=2a3011849965</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/5/full.webp?v=e82d8ffbbe15</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/6/full.webp?v=a66696658581</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/7/full.webp?v=34ebb64555f8</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/8/full.webp?v=404ff571d555</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/9/full.webp?v=abc35cf34afc</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/10/full.webp?v=89c59e134fa7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/11/full.webp?v=4b8075bc3f10</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC018618/12/full.webp?v=ed441bad201c</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD8TC017025</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-gray-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD8TC017025</vin>
+      <price>2949900</price>
+      <sale_price>2310000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>639900</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/0/full.webp?v=bc4df2f35b11</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/1/full.webp?v=176f78892bde</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/2/full.webp?v=4a2d3db51626</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/3/full.webp?v=222ffc36b38f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/4/full.webp?v=4f2c2a5779a7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/5/full.webp?v=2a6b5d7ec885</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/6/full.webp?v=cb6f400b8904</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/7/full.webp?v=8b30cf59709e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/8/full.webp?v=441fef7cb9c7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/9/full.webp?v=42f1b12d824b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/10/full.webp?v=72e1cb91e44d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/11/full.webp?v=dfea4576c5b7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/12/full.webp?v=8b66ad5ae621</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD9TC013159</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD9TC013159</vin>
+      <price>2949900</price>
+      <sale_price>2280000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>669900</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/0/full.webp?v=dfea592c89ee</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/1/full.webp?v=c3dfd7c4d382</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/2/full.webp?v=181572e7f0cb</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/3/full.webp?v=d4c1b12b244a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/4/full.webp?v=9ea151e9ffa7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/5/full.webp?v=4e3d139fb062</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/6/full.webp?v=42b9a4d7c318</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013159/7/full.webp?v=30b23ae74553</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3DLUFD9TC013727</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-gray-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>DASHING, I</folder_id>
+      <year>2026</year>
+      <vin>EC3DLUFD9TC013727</vin>
+      <price>2949900</price>
+      <sale_price>2280000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>669900</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour DASHING, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/0/full.webp?v=4f27476c1815</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/1/full.webp?v=be6f98c0021b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/2/full.webp?v=03f812e5e7b4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/3/full.webp?v=d648f9a84950</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/4/full.webp?v=34cd9413e8f4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/5/full.webp?v=804c2ee1be44</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/6/full.webp?v=856366e7d7f2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3DLUFD9TC013727/7/full.webp?v=b102b84b7f8a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3TDUMA2T0003477</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t2-20-at-245-hp-4wd-premium-gray-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T2</folder_id>
+      <year>2026</year>
+      <vin>EC3TDUMA2T0003477</vin>
+      <price>4649000</price>
+      <sale_price>4169000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>480000</max_benefit>
+      <color>серый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T2, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., серый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/0/full.webp?v=5049029a5a06</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/1/full.webp?v=2bf6250a00c9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/2/full.webp?v=585db0da24fe</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/3/full.webp?v=20d132681b31</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/4/full.webp?v=57e09a893918</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/5/full.webp?v=b968331f8052</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/6/full.webp?v=40ccfe5b1f63</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/7/full.webp?v=cf69f4ebdda2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/8/full.webp?v=cc84f7ca471a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/9/full.webp?v=18386932ef54</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/10/full.webp?v=382f3b68a8ce</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3TEUMB2T0003646</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t2-20-amt-245-hp-4wd-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T2</folder_id>
+      <year>2026</year>
+      <vin>EC3TEUMB2T0003646</vin>
+      <price>4449000</price>
+      <sale_price>3690000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>759000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T2, Престиж, 2.0 AMT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/0/full.webp?v=3aff205819f1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/1/full.webp?v=c64a78427e6d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/2/full.webp?v=a3f5a5b6b9c9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/3/full.webp?v=52b6d7445d01</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/4/full.webp?v=9f5ab469da37</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/5/full.webp?v=68bb86c5f87f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/6/full.webp?v=b77fe201398e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/7/full.webp?v=0d472d36c032</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/8/full.webp?v=f37253cdc27b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/9/full.webp?v=23dd2a991bf7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/10/full.webp?v=6eded764c96e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/11/full.webp?v=275f88feab41</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/12/full.webp?v=6639727e4b83</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB2T0003646/13/full.webp?v=7aaf723a95a8</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3TEUMB6T0004136</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t2-20-amt-245-hp-4wd-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T2</folder_id>
+      <year>2026</year>
+      <vin>EC3TEUMB6T0004136</vin>
+      <price>4449000</price>
+      <sale_price>3690000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>759000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T2, Престиж, 2.0 AMT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/0/full.webp?v=21fdd83bba29</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/1/full.webp?v=b6f0af143c1e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/2/full.webp?v=15a61fac0c26</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/3/full.webp?v=1d7429ec8428</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/4/full.webp?v=5e3a7d426562</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/5/full.webp?v=369466171a6a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/6/full.webp?v=9efca01258fd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/7/full.webp?v=b3cb2f37c964</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/8/full.webp?v=0d8994130aa4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/9/full.webp?v=93e162f5969c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/10/full.webp?v=914bbaaae1bf</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/11/full.webp?v=257d35594e5a</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>EC3TEUMB8T0002744</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t2-20-amt-245-hp-4wd-prestige-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T2</folder_id>
+      <year>2026</year>
+      <vin>EC3TEUMB8T0002744</vin>
+      <price>4449000</price>
+      <sale_price>3690000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>759000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T2, Престиж, 2.0 AMT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB8T0002744/0/full.webp?v=5275e5a6a9e4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB8T0002744/1/full.webp?v=d213710a2219</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB8T0002744/2/full.webp?v=260c2fbd7465</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB8T0002744/3/full.webp?v=bfcb99b28dca</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB8T0002744/4/full.webp?v=5e961534cc78</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/EC3TEUMB8T0002744/5/full.webp?v=573e4e65179f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B0TDB86554</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B0TDB86554</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/0/full.webp?v=6f6af8128f25</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/1/full.webp?v=1df575d67d80</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/2/full.webp?v=1a3d3f9f417d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/3/full.webp?v=f3358ba1a1b1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/4/full.webp?v=f5469ca56796</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/5/full.webp?v=423740c78f4c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/6/full.webp?v=2cbe1e34470c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/7/full.webp?v=0e510ba85617</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/8/full.webp?v=48608ab40614</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/9/full.webp?v=a35b91c932a1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/10/full.webp?v=7f519ce20c91</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/11/full.webp?v=efa0f49c35b0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/12/full.webp?v=ba834a3093a4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B0TDB86554/13/full.webp?v=806b9e253643</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B1TDB78768</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B1TDB78768</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/0/full.webp?v=f6b32461da14</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/1/full.webp?v=3c3def8bab6f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/2/full.webp?v=6d4b1d38d1c9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/3/full.webp?v=58bd57ce939a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/4/full.webp?v=8f1e0272f8fa</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/5/full.webp?v=95c11579c745</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/6/full.webp?v=0ce803f2c959</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/7/full.webp?v=abc92e4cdcc3</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/8/full.webp?v=d1e9e65504b4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/9/full.webp?v=e3b6fb17cd63</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/10/full.webp?v=5a84406f03b2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B1TDB78768/11/full.webp?v=9c29e8d9cfbb</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B2TDC01281</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B2TDC01281</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/0/full.webp?v=7789fb49414e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/1/full.webp?v=63527be9d49f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/2/full.webp?v=35eacf7baf31</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/3/full.webp?v=fa899af9de40</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/4/full.webp?v=5d0a9dcda222</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/5/full.webp?v=1f0727010c04</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/6/full.webp?v=5ae242a0cd3d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/7/full.webp?v=d19ed1fe7ca6</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/8/full.webp?v=3bda6ffd8f50</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/9/full.webp?v=957c30b0916a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/10/full.webp?v=8f16fa8d4abd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/11/full.webp?v=9846202165af</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01281/12/full.webp?v=53608521bc5f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B2TDC01331</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B2TDC01331</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/0/full.webp?v=1a98a4ed970c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/1/full.webp?v=dd64b5a8d8a9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/2/full.webp?v=8c71c7c89aca</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/3/full.webp?v=c1f9e5207e31</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/4/full.webp?v=90e637e4956a</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/5/full.webp?v=b838bd8b6a45</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/6/full.webp?v=d2d7a9556ccd</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/7/full.webp?v=a835e1754916</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/8/full.webp?v=1878910fb902</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/9/full.webp?v=6052d85a2b45</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/10/full.webp?v=49d9a1593190</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/11/full.webp?v=14428a300a9e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC01331/12/full.webp?v=19449bf47d9f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B2TDC41327</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B2TDC41327</vin>
+      <price>4399900</price>
+      <sale_price>4099900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>300000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/1/full.webp?v=fb7d3f3fd7f7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/2/full.webp?v=38956338c2f2</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/3/full.webp?v=2cefae21f1a3</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/4/full.webp?v=c02703a56e46</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/5/full.webp?v=57a0301a4d60</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/6/full.webp?v=d0aa6b54b594</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/7/full.webp?v=21cb224685ee</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/8/full.webp?v=accf440bb575</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/9/full.webp?v=535d66758117</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/9/full.webp?v=c7d1f8350baa</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/10/full.webp?v=a49e26a4ac75</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/11/full.webp?v=b335ef18f698</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/12/full.webp?v=826fd2264485</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/13/full.webp?v=ce4ca30cd2c7</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/14/full.webp?v=d4e6cc57f0be</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B6TDC48166</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B6TDC48166</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/0/full.webp?v=05c6866e8b41</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/1/full.webp?v=d13c80c45c2d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/2/full.webp?v=be41d47e9db8</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/3/full.webp?v=62071ccf3541</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/4/full.webp?v=d708be3e0c6d</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/5/full.webp?v=3319ed76b196</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/6/full.webp?v=51c0cbd2b260</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/7/full.webp?v=9067251ab982</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/8/full.webp?v=76c48fc64617</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/9/full.webp?v=2d7167f7283b</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B7TDB87023</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B7TDB87023</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/0/full.webp?v=137996924147</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/1/full.webp?v=3f3d73c610bc</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/2/full.webp?v=271ac7c5d771</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/3/full.webp?v=1d822b925e5e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/4/full.webp?v=c3ee028787c6</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/5/full.webp?v=71d60e56e532</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/6/full.webp?v=7a098f071e81</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/7/full.webp?v=fc32518e66ce</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/8/full.webp?v=e86b06059daf</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/9/full.webp?v=6b9974ea5ef3</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/10/full.webp?v=9e73772db62f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/11/full.webp?v=cff8251cd862</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDB87023/12/full.webp?v=5dc9c053be3f</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B8TDB78864</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B8TDB78864</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/0/full.webp?v=50f21eaa52b0</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/1/full.webp?v=5296bb18b7f9</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/2/full.webp?v=ffc1d4551584</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/3/full.webp?v=2c3fbb7f992f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/4/full.webp?v=d9bd35926888</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/5/full.webp?v=675c6e6eda5b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/6/full.webp?v=bd5705635a8c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/7/full.webp?v=d3b2baccdb6e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/8/full.webp?v=ae1b2666542c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/9/full.webp?v=16212a954626</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/10/full.webp?v=e24dfbc2241e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/11/full.webp?v=ad8966c62251</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/12/full.webp?v=a041a5d45d17</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24B8TDC38559</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24B8TDC38559</vin>
+      <price>4199900</price>
+      <sale_price>3649900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>черный</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., черный</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/0/full.webp?v=3e99bd270c97</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/1/full.webp?v=6c526ee7b732</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/2/full.webp?v=a8e39d20df5c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/3/full.webp?v=199532238f83</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/4/full.webp?v=174414fb7241</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/5/full.webp?v=7da8684d7500</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/6/full.webp?v=2a1e05aac4a4</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/7/full.webp?v=15017e291f7f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/8/full.webp?v=c5641c7fbf03</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDC38559/9/full.webp?v=7f5e23109281</image>
+      </images>
+    </car>
+    <car>
+      <unique_id>LVTDD24BXTDB79904</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-green-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>T1</folder_id>
+      <year>2026</year>
+      <vin>LVTDD24BXTDB79904</vin>
+      <price>4249900</price>
+      <sale_price>3699900</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>550000</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г., зеленый</description>
+      <images>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/0/full.webp?v=a3c55d68f481</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/1/full.webp?v=e7c9a957172f</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/2/full.webp?v=be2b6d0b6066</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/3/full.webp?v=1e3530866444</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/4/full.webp?v=95651d7b3e73</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/5/full.webp?v=1c0ba2c3268c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/6/full.webp?v=e37efde0757c</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/7/full.webp?v=05fbfc2334a1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/8/full.webp?v=f1c00e8f515b</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/9/full.webp?v=1c8d654ec904</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/10/full.webp?v=f5386306d86e</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/11/full.webp?v=366a562c9c65</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/12/full.webp?v=22f5b7195e19</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/13/full.webp?v=7da2daa4b6c1</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/14/full.webp?v=b419d871f275</image>
+        <image>https://cdn.alexsab.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/15/full.webp?v=ff7202b8f411</image>
+      </images>
+    </car>
+  </cars>
+</data>

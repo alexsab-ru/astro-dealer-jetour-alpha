@@ -2,29 +2,6 @@
 <channel>
   <title>Автомобили</title>
   <item>
-    <id>EC37CUSM2TC008565</id>
-    <link>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-comfort-gray-2026/</link>
-    <brand>Jetour</brand>
-    <model>X70+, I Рестайлинг</model>
-    <year>2026</year>
-    <title>Jetour X70+, I Рестайлинг Комфорт 2026</title>
-    <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/0/full.webp?v=0559e64dfe97</image_link>
-    <price>3099000 RUB</price>
-    <sale_price>2499000 RUB</sale_price>
-    <min_price>2499000 RUB</min_price>
-    <max_price>3099000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour X70+, I Рестайлинг, Комфорт, 1.6 AMT (190 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>EC37CUSM2TC008565</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>EC37CUSM8TC007453</id>
     <link>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-comfort-green-2026/</link>
     <brand>Jetour</brand>

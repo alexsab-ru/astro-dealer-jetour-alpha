@@ -2,38 +2,6 @@
 <data>
   <cars>
     <car>
-      <unique_id>EC37CUSM2TC008565</unique_id>
-      <url>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-comfort-gray-2026/</url>
-      <mark_id>Jetour</mark_id>
-      <folder_id>X70+, I Рестайлинг</folder_id>
-      <year>2026</year>
-      <vin>EC37CUSM2TC008565</vin>
-      <price>3099000</price>
-      <sale_price>2499000</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>600000</max_benefit>
-      <color>серый</color>
-      <availability>В наличии</availability>
-      <description>Автомобиль Jetour X70+, I Рестайлинг, Комфорт, 1.6 AMT (190 л.с.), 2026 г., серый</description>
-      <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/0/full.webp?v=0559e64dfe97</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/1/full.webp?v=5cfc9e9b2814</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/2/full.webp?v=e47cca56897e</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/3/full.webp?v=7514ac57b345</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/4/full.webp?v=b2fdf774f144</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/5/full.webp?v=e39c1607d700</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/6/full.webp?v=d6bbc4d52cae</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/7/full.webp?v=b8f76472ed9d</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/8/full.webp?v=264b98b6439a</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/9/full.webp?v=22bf9103f962</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/10/full.webp?v=d86eb9b9644e</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/11/full.webp?v=89aaa1b31dc9</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/12/full.webp?v=3bf2125bf10c</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM2TC008565/13/full.webp?v=2a8410f3621c</image>
-      </images>
-    </car>
-    <car>
       <unique_id>EC37CUSM8TC007453</unique_id>
       <url>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-comfort-green-2026/</url>
       <mark_id>Jetour</mark_id>
@@ -63,6 +31,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/11/full.webp?v=7c42b853c1bd</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/12/full.webp?v=5c240015f479</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/13/full.webp?v=da8982e51e61</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/14/full.webp?v=26fc1728dd17</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/15/full.webp?v=c7832c22600a</image>
       </images>
     </car>
     <car>
@@ -95,6 +65,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/11/full.webp?v=2705abcb9250</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/12/full.webp?v=3f6b1160db83</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/13/full.webp?v=c529d165634c</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/14/full.webp?v=24fe62e164ef</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/15/full.webp?v=d475ed3ea487</image>
       </images>
     </car>
     <car>
@@ -127,6 +99,7 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/11/full.webp?v=bd43e67fface</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/12/full.webp?v=46a62a51cd53</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/13/full.webp?v=9c7e8c80166f</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/14/full.webp?v=5654ef7085ef</image>
       </images>
     </car>
     <car>
@@ -189,6 +162,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/11/full.webp?v=3f420f971b51</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/12/full.webp?v=ac4878dced05</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/13/full.webp?v=b568f04abc7d</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/14/full.webp?v=df4dc7b1b21e</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/15/full.webp?v=a6aae473eb2e</image>
       </images>
     </car>
     <car>
@@ -221,6 +196,7 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC008052/11/full.webp?v=2127772bad97</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC008052/12/full.webp?v=875726ea393d</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC008052/13/full.webp?v=751036b8e120</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC008052/14/full.webp?v=ca8d9955e5a2</image>
       </images>
     </car>
     <car>
@@ -277,6 +253,7 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC000170/11/full.webp?v=1ff2a25b8831</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC000170/12/full.webp?v=a47d4298aacb</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC000170/13/full.webp?v=f3382ab4a56a</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC000170/14/full.webp?v=66b8250ffd04</image>
       </images>
     </car>
     <car>
@@ -658,6 +635,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/11/full.webp?v=e7dbaae59718</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/12/full.webp?v=a675330f4285</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/13/full.webp?v=5d0273459fd2</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/14/full.webp?v=824466a68484</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/15/full.webp?v=f20a4332185f</image>
       </images>
     </car>
     <car>
@@ -817,6 +796,8 @@
       <images>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/0/full.webp?v=9711fcbb6439</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/1/full.webp?v=6b40c6c2ed89</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/2/full.webp?v=99712853de85</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/3/full.webp?v=e16c029a83fd</image>
       </images>
     </car>
     <car>
@@ -968,6 +949,7 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/11/full.webp?v=b335ef18f698</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/12/full.webp?v=826fd2264485</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/13/full.webp?v=ce4ca30cd2c7</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC41327/14/full.webp?v=d4e6cc57f0be</image>
       </images>
     </car>
     <car>
@@ -999,6 +981,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/11/full.webp?v=f98e1ad01cc5</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/12/full.webp?v=063a6996fad6</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/13/full.webp?v=d167c43b4335</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/14/full.webp?v=08b972ecb083</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/15/full.webp?v=ff90890c3681</image>
       </images>
     </car>
     <car>
@@ -1090,6 +1074,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/11/full.webp?v=35be3f8c1fdd</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/12/full.webp?v=6ec640036e29</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/13/full.webp?v=b60de5ed06b3</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/14/full.webp?v=75786e90b512</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/15/full.webp?v=569b6ebc20fa</image>
       </images>
     </car>
     <car>
@@ -1182,6 +1168,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/11/full.webp?v=c24e6a21a14e</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/12/full.webp?v=b906081a7d6d</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/13/full.webp?v=7fc1c9ea3e47</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/14/full.webp?v=ba0255b39306</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24BXTDB79904/15/full.webp?v=bd2f42f32b87</image>
       </images>
     </car>
   </cars>

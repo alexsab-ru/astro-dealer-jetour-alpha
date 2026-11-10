@@ -33,6 +33,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/13/full.webp?v=da8982e51e61</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/14/full.webp?v=26fc1728dd17</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/15/full.webp?v=c7832c22600a</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/16/full.webp?v=8224f280835f</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/17/full.webp?v=ca0aa33cfa79</image>
       </images>
     </car>
     <car>
@@ -67,6 +69,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/13/full.webp?v=c529d165634c</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/14/full.webp?v=24fe62e164ef</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/15/full.webp?v=d475ed3ea487</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/16/full.webp?v=53279464ef8f</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM3TC008946/17/full.webp?v=38df1436c8f7</image>
       </images>
     </car>
     <car>
@@ -164,6 +168,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/13/full.webp?v=b568f04abc7d</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/14/full.webp?v=df4dc7b1b21e</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/15/full.webp?v=a6aae473eb2e</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/16/full.webp?v=802ba29edb13</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/17/full.webp?v=6e3b205dbbda</image>
       </images>
     </car>
     <car>
@@ -225,7 +231,7 @@
     </car>
     <car>
       <unique_id>EC3DCUFD9TC000170</unique_id>
-      <url>https://jetour-alpha.ru/cars/soueast-s06-15-amt-147-hp-prestige-black-2026/</url>
+      <url>https://jetour-alpha.ru/cars/soueast-s06-15-amt-147-hp-prestige-black-matovyy-2026/</url>
       <mark_id>Soueast</mark_id>
       <folder_id>S06</folder_id>
       <year>2026</year>
@@ -235,9 +241,8 @@
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
       <max_benefit>1100000</max_benefit>
-      <color>черный</color>
       <availability>В наличии</availability>
-      <description>Автомобиль Soueast S06, Престиж, 1.5 AMT (147 л.с.), 2026 г., черный</description>
+      <description>Автомобиль Soueast S06, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC000170/0/full.webp?v=6837011ed44a</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC000170/1/full.webp?v=8e6b17cba9c3</image>
@@ -637,23 +642,23 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/13/full.webp?v=5d0273459fd2</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/14/full.webp?v=824466a68484</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/15/full.webp?v=f20a4332185f</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A2S0000079/16/full.webp?v=33bbc32125d7</image>
       </images>
     </car>
     <car>
       <unique_id>EC3SPU2A7S0000062</unique_id>
-      <url>https://jetour-alpha.ru/cars/soueast-s09-20-at-197-hp-4wd-premium-black-2025/</url>
+      <url>https://jetour-alpha.ru/cars/soueast-s09-20-at-197-hp-4wd-premium-black-matovyy-2025/</url>
       <mark_id>Soueast</mark_id>
       <folder_id>S09</folder_id>
       <year>2025</year>
       <vin>EC3SPU2A7S0000062</vin>
       <price>4099000</price>
-      <sale_price>3199000</sale_price>
+      <sale_price>3099000</sale_price>
       <currency>RUR</currency>
       <owners_number>Не было владельцев</owners_number>
-      <max_benefit>900000</max_benefit>
-      <color>черный</color>
+      <max_benefit>1000000</max_benefit>
       <availability>В наличии</availability>
-      <description>Автомобиль Soueast S09, Премиум, 2.0 AT (197 л.с.) 4WD, 2025 г., черный</description>
+      <description>Автомобиль Soueast S09, Премиум, 2.0 AT (197 л.с.) 4WD, 2025 г.</description>
       <images>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A7S0000062/0/full.webp?v=ed68fe1e6068</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A7S0000062/1/full.webp?v=8ced3ffffd6e</image>
@@ -798,6 +803,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/1/full.webp?v=6b40c6c2ed89</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/2/full.webp?v=99712853de85</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/3/full.webp?v=e16c029a83fd</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/4/full.webp?v=7af20e0f595d</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LNNBBDEE2TDC75115/5/full.webp?v=b7d66fcd24b3</image>
       </images>
     </car>
     <car>
@@ -983,6 +990,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/13/full.webp?v=d167c43b4335</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/14/full.webp?v=08b972ecb083</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/15/full.webp?v=ff90890c3681</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/16/full.webp?v=1b62e2403df4</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B2TDC48083/17/full.webp?v=23aa70a40a5f</image>
       </images>
     </car>
     <car>
@@ -1076,6 +1085,8 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/13/full.webp?v=b60de5ed06b3</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/14/full.webp?v=75786e90b512</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/15/full.webp?v=569b6ebc20fa</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/16/full.webp?v=75d70e72fb14</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B7TDC48032/17/full.webp?v=35c38970346a</image>
       </images>
     </car>
     <car>

@@ -164,7 +164,7 @@
   </item>
   <item>
     <id>EC3DCUFD9TC000170</id>
-    <link>https://jetour-alpha.ru/cars/soueast-s06-15-amt-147-hp-prestige-black-2026/</link>
+    <link>https://jetour-alpha.ru/cars/soueast-s06-15-amt-147-hp-prestige-black-matovyy-2026/</link>
     <brand>Soueast</brand>
     <model>S06</model>
     <year>2026</year>
@@ -176,7 +176,7 @@
     <max_price>3279900 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Soueast S06, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Черный</exterior_color>
+    <exterior_color>Черный матовый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>
@@ -486,19 +486,19 @@
   </item>
   <item>
     <id>EC3SPU2A7S0000062</id>
-    <link>https://jetour-alpha.ru/cars/soueast-s09-20-at-197-hp-4wd-premium-black-2025/</link>
+    <link>https://jetour-alpha.ru/cars/soueast-s09-20-at-197-hp-4wd-premium-black-matovyy-2025/</link>
     <brand>Soueast</brand>
     <model>S09</model>
     <year>2025</year>
     <title>Soueast S09 Премиум 2025</title>
     <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3SPU2A7S0000062/0/full.webp?v=ed68fe1e6068</image_link>
     <price>4099000 RUB</price>
-    <sale_price>3199000 RUB</sale_price>
-    <min_price>3199000 RUB</min_price>
+    <sale_price>3099000 RUB</sale_price>
+    <min_price>3099000 RUB</min_price>
     <max_price>4099000 RUB</max_price>
     <state_of_vehicle>new</state_of_vehicle>
     <description>Автомобиль Soueast S09, Премиум, 2.0 AT (197 л.с.) 4WD, 2025 г.</description>
-    <exterior_color>Черный</exterior_color>
+    <exterior_color>Черный матовый</exterior_color>
     <mileage>
       <value>0</value>
       <unit>KM</unit>

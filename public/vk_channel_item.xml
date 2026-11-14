@@ -140,52 +140,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>EC3DCUFD8TC000340</id>
-    <link>https://jetour-alpha.ru/cars/soueast-s06-15-amt-147-hp-prestige-pearl-white-2026/</link>
-    <brand>Soueast</brand>
-    <model>S06</model>
-    <year>2026</year>
-    <title>Soueast S06 Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD8TC000340/0/full.webp?v=80008475470c</image_link>
-    <price>3279900 RUB</price>
-    <sale_price>2179900 RUB</sale_price>
-    <min_price>2179900 RUB</min_price>
-    <max_price>3279900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Soueast S06, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Белый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>EC3DCUFD8TC000340</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3DCUFD9TC000170</id>
-    <link>https://jetour-alpha.ru/cars/soueast-s06-15-amt-147-hp-prestige-black-matovyy-2026/</link>
-    <brand>Soueast</brand>
-    <model>S06</model>
-    <year>2026</year>
-    <title>Soueast S06 Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DCUFD9TC000170/0/full.webp?v=6837011ed44a</image_link>
-    <price>3279900 RUB</price>
-    <sale_price>2179900 RUB</sale_price>
-    <min_price>2179900 RUB</min_price>
-    <max_price>3279900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Soueast S06, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Черный матовый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>EC3DCUFD9TC000170</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>EC3DLUFD0TC018914</id>
     <link>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-white-2026/</link>
     <brand>Jetour</brand>
@@ -504,29 +458,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>EC3SPU2A7S0000062</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3TDUMA2T0003477</id>
-    <link>https://jetour-alpha.ru/cars/jetour-t2-20-at-245-hp-4wd-premium-gray-2026/</link>
-    <brand>Jetour</brand>
-    <model>T2</model>
-    <year>2026</year>
-    <title>Jetour T2 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3TDUMA2T0003477/0/full.webp?v=5049029a5a06</image_link>
-    <price>4649000 RUB</price>
-    <sale_price>4169000 RUB</sale_price>
-    <min_price>4169000 RUB</min_price>
-    <max_price>4649000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T2, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>EC3TDUMA2T0003477</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

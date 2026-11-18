@@ -692,29 +692,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>LVTDD24B6TDC48166</id>
-    <link>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-matte-2026/</link>
-    <brand>Jetour</brand>
-    <model>T1</model>
-    <year>2026</year>
-    <title>Jetour T1 Премиум 2026</title>
-    <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/0/full.webp?v=05c6866e8b41</image_link>
-    <price>4199900 RUB</price>
-    <sale_price>3649900 RUB</sale_price>
-    <min_price>3649900 RUB</min_price>
-    <max_price>4199900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный матовый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>LVTDD24B6TDC48166</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>LVTDD24B7TDB87023</id>
     <link>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-matte-2026/</link>
     <brand>Jetour</brand>

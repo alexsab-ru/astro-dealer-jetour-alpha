@@ -926,36 +926,6 @@
       </images>
     </car>
     <car>
-      <unique_id>LVTDD24B6TDC48166</unique_id>
-      <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-matte-2026/</url>
-      <mark_id>Jetour</mark_id>
-      <folder_id>T1</folder_id>
-      <year>2026</year>
-      <vin>LVTDD24B6TDC48166</vin>
-      <price>4199900</price>
-      <sale_price>3649900</sale_price>
-      <currency>RUR</currency>
-      <owners_number>Не было владельцев</owners_number>
-      <max_benefit>550000</max_benefit>
-      <availability>В наличии</availability>
-      <description>Автомобиль Jetour T1, Премиум, 2.0 AT (245 л.с.) 4WD, 2026 г.</description>
-      <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/0/full.webp?v=05c6866e8b41</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/1/full.webp?v=d13c80c45c2d</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/2/full.webp?v=be41d47e9db8</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/3/full.webp?v=62071ccf3541</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/4/full.webp?v=6cb171e135ff</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/5/full.webp?v=3319ed76b196</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/6/full.webp?v=51c0cbd2b260</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/7/full.webp?v=9067251ab982</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/8/full.webp?v=76c48fc64617</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/9/full.webp?v=2d7167f7283b</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/10/full.webp?v=4ddcd96b1794</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/11/full.webp?v=bb22f367b30b</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B6TDC48166/12/full.webp?v=c3807fb4ee66</image>
-      </images>
-    </car>
-    <car>
       <unique_id>LVTDD24B7TDB87023</unique_id>
       <url>https://jetour-alpha.ru/cars/jetour-t1-20-at-245-hp-4wd-premium-black-matte-2026/</url>
       <mark_id>Jetour</mark_id>

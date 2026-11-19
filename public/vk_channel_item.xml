@@ -370,29 +370,6 @@
     <vehicle_type>car_truck</vehicle_type>
   </item>
   <item>
-    <id>EC3DLUFD8TC017025</id>
-    <link>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-gray-2026/</link>
-    <brand>Jetour</brand>
-    <model>Dashing, I</model>
-    <year>2026</year>
-    <title>Jetour Dashing, I Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD8TC017025/0/full.webp?v=bc4df2f35b11</image_link>
-    <price>2949900 RUB</price>
-    <sale_price>2349900 RUB</sale_price>
-    <min_price>2349900 RUB</min_price>
-    <max_price>2949900 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour Dashing, I, Престиж, 1.5 AMT (147 л.с.), 2026 г.</description>
-    <exterior_color>Серый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>EC3DLUFD8TC017025</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
     <id>EC3DLUFD9TC013727</id>
     <link>https://jetour-alpha.ru/cars/jetour-dashing-i-15-amt-147-hp-prestige-gray-2026/</link>
     <brand>Jetour</brand>
@@ -481,29 +458,6 @@
       <unit>KM</unit>
     </mileage>
     <vin>EC3TEUMB2T0003646</vin>
-    <availability>в наличии</availability>
-    <vehicle_type>car_truck</vehicle_type>
-  </item>
-  <item>
-    <id>EC3TEUMB6T0004136</id>
-    <link>https://jetour-alpha.ru/cars/jetour-t2-20-amt-245-hp-4wd-prestige-black-matte-2026/</link>
-    <brand>Jetour</brand>
-    <model>T2</model>
-    <year>2026</year>
-    <title>Jetour T2 Престиж 2026</title>
-    <image_link>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3TEUMB6T0004136/0/full.webp?v=21fdd83bba29</image_link>
-    <price>4449000 RUB</price>
-    <sale_price>3690000 RUB</sale_price>
-    <min_price>3690000 RUB</min_price>
-    <max_price>4449000 RUB</max_price>
-    <state_of_vehicle>new</state_of_vehicle>
-    <description>Автомобиль Jetour T2, Престиж, 2.0 AMT (245 л.с.) 4WD, 2026 г.</description>
-    <exterior_color>Черный матовый</exterior_color>
-    <mileage>
-      <value>0</value>
-      <unit>KM</unit>
-    </mileage>
-    <vin>EC3TEUMB6T0004136</vin>
     <availability>в наличии</availability>
     <vehicle_type>car_truck</vehicle_type>
   </item>

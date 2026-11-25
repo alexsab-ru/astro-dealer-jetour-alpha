@@ -2,6 +2,42 @@
 <data>
   <cars>
     <car>
+      <unique_id>EC37CUSM8TC007453</unique_id>
+      <url>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-comfort-green-2026/</url>
+      <mark_id>Jetour</mark_id>
+      <folder_id>X70+, I Рестайлинг</folder_id>
+      <year>2026</year>
+      <vin>EC37CUSM8TC007453</vin>
+      <price>3099000</price>
+      <sale_price>2499000</sale_price>
+      <currency>RUR</currency>
+      <owners_number>Не было владельцев</owners_number>
+      <max_benefit>600000</max_benefit>
+      <color>зеленый</color>
+      <availability>В наличии</availability>
+      <description>Автомобиль Jetour X70+, I Рестайлинг, Комфорт, 1.6 AMT (190 л.с.), 2026 г., зеленый</description>
+      <images>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/0/full.webp?v=c05c9231da7b</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/1/full.webp?v=75c74e800bdd</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/2/full.webp?v=44ccacc682a9</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/3/full.webp?v=5f7561985dfd</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/4/full.webp?v=0bfc9a922892</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/5/full.webp?v=0d37dcb59665</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/7/full.webp?v=ccf9291fc8c1</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/8/full.webp?v=958faca4f0c1</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/9/full.webp?v=e19a2c4bb228</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/10/full.webp?v=c190949f32b1</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/11/full.webp?v=7c42b853c1bd</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/12/full.webp?v=5c240015f479</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/13/full.webp?v=da8982e51e61</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/14/full.webp?v=26fc1728dd17</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/15/full.webp?v=c7832c22600a</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/16/full.webp?v=8224f280835f</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/17/full.webp?v=ca0aa33cfa79</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37CUSM8TC007453/18/full.webp?v=3147eda2004e</image>
+      </images>
+    </car>
+    <car>
       <unique_id>EC37LUSM3TC008946</unique_id>
       <url>https://jetour-alpha.ru/cars/jetour-x70-plus-i-facelift-16-amt-190-hp-prestige-gray-2026/</url>
       <mark_id>Jetour</mark_id>
@@ -53,11 +89,11 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jetour X70+, I Рестайлинг, Престиж, 1.6 AMT (190 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/0/full.webp?v=120da4f376c1</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/0/full.webp?v=e1062005557e</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/1/full.webp?v=04bd49799699</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/2/full.webp?v=2ebce860e932</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/3/full.webp?v=d4d3d03f3940</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/4/full.webp?v=4d05a751f82e</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/4/full.webp?v=0f24bd386ea1</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/5/full.webp?v=6f89851f0dd2</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/6/full.webp?v=453b82e57bfb</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM5TC008057/7/full.webp?v=3b19cc3148e3</image>
@@ -122,6 +158,7 @@
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/3/full.webp?v=64284f77f33b</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/4/full.webp?v=4dc2dfeb5b09</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/5/full.webp?v=75e31c38d93a</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/6/full.webp?v=88229f214a6d</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/7/full.webp?v=9e098ff476a7</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/8/full.webp?v=525237db718f</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC37LUSM6TC007922/9/full.webp?v=22bdaf8d550f</image>
@@ -185,18 +222,12 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jetour Dashing, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/0/full.webp?v=d9ff62fa9357</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/1/full.webp?v=8479e16fbfb2</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/2/full.webp?v=02eb51920d2a</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/3/full.webp?v=328ecc6f1732</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/4/full.webp?v=9987321c6b91</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/5/full.webp?v=1b948f91e706</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/6/full.webp?v=65246d650967</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/0/full.webp?v=f8a0c2275810</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/1/full.webp?v=e91ed92b00cb</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/7/full.webp?v=c7820b2f6960</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/8/full.webp?v=8e54c1ea8dfc</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/9/full.webp?v=c31a135cca9d</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/10/full.webp?v=736014b5c428</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD0TC018914/11/full.webp?v=f4088d4e6cce</image>
       </images>
     </car>
     <car>
@@ -243,17 +274,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jetour Dashing, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/0/full.webp?v=64b20422f3d9</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/1/full.webp?v=e413d11e1a50</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/2/full.webp?v=5226f8d08d56</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/3/full.webp?v=e41aa8faf091</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/4/full.webp?v=55ff7bbbba06</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/5/full.webp?v=01c6d67f8c5c</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/6/full.webp?v=a8d610d81164</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/7/full.webp?v=d9662f40d5b0</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/8/full.webp?v=1463669e3487</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/9/full.webp?v=0bb71c08ac86</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/10/full.webp?v=25ac74562434</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/0/full.webp?v=da488ab45244</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC016638/1/full.webp?v=e6351a852f84</image>
       </images>
     </car>
     <car>
@@ -303,6 +325,8 @@
       <images>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/0/full.webp?v=17cfe2e818c9</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/1/full.webp?v=f01a9dd266e1</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/2/full.webp?v=a647b8b4d15a</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD3TC020267/3/full.webp?v=d24f7afc7d28</image>
       </images>
     </car>
     <car>
@@ -347,20 +371,11 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jetour Dashing, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/0/full.webp?v=53fd36d8ec45</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/1/full.webp?v=27f9db36ed08</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/2/full.webp?v=6dee00ecf741</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/3/full.webp?v=1bad687cccd0</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/4/full.webp?v=e39e7bfe52c4</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/5/full.webp?v=c0d95b1823d3</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/6/full.webp?v=bfc60c7b6142</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/7/full.webp?v=f9af123cfd2a</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/8/full.webp?v=9439d7cf9656</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/0/full.webp?v=5f2aea3f5a89</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/1/full.webp?v=8e558163ca4f</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/9/full.webp?v=4715e75753f7</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/10/full.webp?v=7bfde09189f2</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/11/full.webp?v=2fbee59eb975</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/12/full.webp?v=22f2677942fd</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC016861/13/full.webp?v=b1eac91422b8</image>
       </images>
     </car>
     <car>
@@ -406,19 +421,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jetour Dashing, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., серый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/0/full.webp?v=0cd968f561b6</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/1/full.webp?v=74d28b05732a</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/2/full.webp?v=97c3ab61ecdd</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/3/full.webp?v=4873584587f7</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/4/full.webp?v=b7228d614a41</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/5/full.webp?v=e5a976e7d455</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/6/full.webp?v=7e0524773661</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/7/full.webp?v=c0bfbb51bf84</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/8/full.webp?v=7798decf498c</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/9/full.webp?v=758dcc138367</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/10/full.webp?v=41bec3663560</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/11/full.webp?v=612b4b02e615</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/12/full.webp?v=38bb240b6e03</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/0/full.webp?v=acf89916d48f</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD6TC020215/1/full.webp?v=de6c5d3e90f4</image>
       </images>
     </car>
     <car>
@@ -437,18 +441,8 @@
       <availability>В наличии</availability>
       <description>Автомобиль Jetour Dashing, I, Престиж, 1.5 AMT (147 л.с.), 2026 г., белый</description>
       <images>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/0/full.webp?v=799a6a90f75e</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/1/full.webp?v=f3407d800344</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/2/full.webp?v=2a5948bcf76d</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/3/full.webp?v=63b6a80fd02b</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/4/full.webp?v=73d9205ed3dd</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/5/full.webp?v=0004295fbea9</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/6/full.webp?v=4a0e5deaf912</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/7/full.webp?v=4c200bb31b0b</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/8/full.webp?v=c7340f4548bd</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/9/full.webp?v=61dc1c1eb026</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/10/full.webp?v=ad9cb9440506</image>
-        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/11/full.webp?v=4c23ef1c9a60</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/0/full.webp?v=680dbcd9a910</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/EC3DLUFD7TC016917/1/full.webp?v=34d5560a2053</image>
       </images>
     </car>
     <car>
@@ -874,6 +868,8 @@
       <images>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/0/full.webp?v=2c77e4b9e54a</image>
         <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/1/full.webp?v=832ed1adbb5c</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/2/full.webp?v=327d002bc0a2</image>
+        <image>https://img.upspace.ru/cars/jetour-alpha.ru/new/LVTDD24B8TDB78864/3/full.webp?v=03691e43b2e3</image>
       </images>
     </car>
     <car>
